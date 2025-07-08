@@ -15,14 +15,14 @@ Features
 - LiDAR-based obstacle detection
 - TurtleBot3 simulation in Gazebo
   
-Ensure you have:
+Ensure:
 
 - ROS 2 (Humble)
 - `turtlebot3_gazebo`
 - `nav2_bringup`
 - Gazebo 11 or compatible
-- TurtleBot3 model set to `burger` (default)
-- A properly sourced ROS 2 workspace (`~/ros2_ws`)
+- TurtleBot3 set to `burger` (default)
+- Sourced ROS 2 workspace (`~/ros2_ws`)
 
 1. 
 ```bash
